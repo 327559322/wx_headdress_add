@@ -1,4 +1,5 @@
 # wx_headdress_add
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+花洒节头像获取
+>>>>>>> 7f80de7fca3620ab231fa3ee0469a33cc27294c5
